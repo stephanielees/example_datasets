@@ -19,3 +19,5 @@ The variables are the following:
 - X5: Total students in all four grade levels in the high school.
 
 To learn further about the dataset: https://github.com/grf-labs/grf/tree/master/experiments/acic18
+Paper reference:
+Susan Athey, & Stefan Wager. (2019). Estimating Treatment Effects with Causal Forests: An Application.
